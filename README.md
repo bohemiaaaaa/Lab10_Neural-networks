@@ -38,8 +38,8 @@
 | Модель | Val IoU | Val Accuracy | 
 |--------|---------|--------------|
 | U-Net (базовая) | 0.7233 | 0.7257 | 
-| U-Net (skip connections) | 0.7300 | 
-| PSPNet | 0.7661 | 0.7657 |
+| U-Net (skip connections) | 0.7300 | 0.7380 |
+| PSPNet | 0.7661 | 0.7657 | 
 
 ---
 
